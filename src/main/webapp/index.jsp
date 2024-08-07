@@ -66,8 +66,8 @@
 </head>
 <body>
   <header>
-    <h1>DevOps Shack</h1>
-    <p>Your one-stop destination for all things DevOps!</p>
+    <h1>Java Express Devops Course</h1>
+    <p>Visit: www.javaexpressacademy.com</p>
   </header>
   <div class="container">
     <h2>Contact Us</h2>
@@ -78,10 +78,10 @@
       <input type="submit" value="Send Message">
     </form>
     <div class="youtube-video">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/NnkUGzaqqOc" frameborder="0" allowfullscreen></iframe>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/RaCSc8TJiZM" frameborder="0" allowfullscreen></iframe>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/Vwo8zV8zmQU" frameborder="0" allowfullscreen></iframe>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/b45z8f0_Eto" frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/Q0zMf_JUqzI?si=otVaJuumiFCCIpdp" frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/qRLYA1ZnxgY?si=Bi0GGRKPlm0cLYXA" frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/qRLYA1ZnxgY?si=Bi0GGRKPlm0cLYXA" frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/qRLYA1ZnxgY?si=Bi0GGRKPlm0cLYXA" frameborder="0" allowfullscreen></iframe>
     </div>
   </div>
 </body>
